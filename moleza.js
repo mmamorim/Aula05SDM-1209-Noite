@@ -30,3 +30,4 @@ console.log(idades.length)
 //for(let i=0; i<10; i++) {
 //    console.log("passei aqui "+i);
 //}
+
