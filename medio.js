@@ -24,6 +24,7 @@ console.log(subtrai3numeros)
 setTimeout(imprimeNumero, 3000)
 
 setTimeout(() => {
+    
     console.log("demorei 1 seg");
     setTimeout(() => {
         console.log("demorei 10 seg");
